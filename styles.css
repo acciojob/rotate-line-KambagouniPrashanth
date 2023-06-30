@@ -3,6 +3,7 @@
 #line{
 	width:200px;
 	height:2px;
+	display:block-inline;
 	background-color:black;
 	position:absolute;
 	top:50%;
